@@ -1,0 +1,23 @@
+-index
+	-dropdown ostoskorille ja kirjautumiselle (linkki rekisteröintiin)
+	-menu ja search (reveal/dropdown?)
+	-logoa klikkaamalla refresh
+	-uutuudet
+	-footeriin yhteystiedot jne
+	-elämäm_viisaus
+-rekisteröinti
+	-lomake
+-tuotteet
+	-haitarivalikko (artist, genre, jne)
+	-tuotelistaus
+-yhteystiedot
+	-info
+	-kartta
+-template tuotteille
+	-kuva
+	-tiedot
+	-hinta, osta-nappula jne, disabled jos out of stock
+-adminsivu
+	-napista hakee lomakkeen
+		-lisää
+		-tarkastele tilauksia
